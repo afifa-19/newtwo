@@ -1,0 +1,37 @@
+.container{
+    font-family: Georgia,serif;
+    background-color: #A6AEBF;
+    display: flex;
+    justify-content: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    border: 3px solid black;
+    margin-top: 50px;
+
+}
+.container-2 .count #num{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 100px;
+    margin: 0;
+}
+.container-2{
+    display: flex;
+    justify-content: center;
+    background-color: #C5D3E8;
+    margin-top:30px;
+    border: 2px solid black;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-top: 100px;
+    padding-bottom:100px ;
+}
+.container-2 .button #btn{
+    font-size: 80px;
+    border: 2px solid black;
+    background-color: white;
+    cursor: pointer;
+    width: 70px;
+    margin-left: 10px;
+}
